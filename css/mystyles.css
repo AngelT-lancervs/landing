@@ -1,0 +1,24 @@
+
+.bg-light{
+    background-color: #000000 !important;
+}
+
+.portfolio-caption{
+    background-color: #000000 !important;
+}
+
+.portfolio-caption-heading{
+    color: #eee;
+}
+
+.bg-light h2.section-heading.text-uppercase{
+    color: #eee;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover{
+    background: #363636;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #29667e;
+}
