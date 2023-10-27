@@ -22,3 +22,19 @@
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: #29667e;
 }
+
+.timeline > li .timeline-image{
+    background-color: #494640;
+}
+
+.page-section h3.section-subheading, .page-section .section-subheading.h3{
+    color: #eee !important;
+}
+
+.team-member h4, .team-member .h4{
+    color: #adacaf;
+}
+
+.text-muted {
+    color: #5e6266 !important;
+}
